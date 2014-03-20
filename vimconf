@@ -1,0 +1,12 @@
+set noai
+set tabstop=4
+set expandtab
+set shiftwidth=4
+set ruler
+set nowrap
+set title
+set showmode
+set diffopt+=iwhite
+set nohlsearch
+syntax on
+
